@@ -18,20 +18,21 @@ Tech Stack
 
 Local Setup & Installation
 To run this project locally on your machine, follow these steps:
-	1.	Clone the repository:
+	
+1.	Clone the repository:
 ```bash
 https://github.com/parthkeskar05-byte/Type-nlp-text-analyzer
 cd Type-nlp-text-analyzer
 ```
 
-	2.	Install the required dependencies:
+2.	Install the required dependencies:
 Make sure you have Python installed, then run:
 ```bash
 pip install streamlit transformers torch
 ```
 
 (Note: PyTorch is required as the underlying backend for the Hugging Face models).
-	3.	Run the application:
+3.	Run the application:
 ```bash
 run app.py
 ```
