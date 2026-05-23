@@ -30,8 +30,8 @@ Make sure you have Python installed, then run:
 ```bash
 pip install streamlit transformers torch
 ```
-
 (Note: PyTorch is required as the underlying backend for the Hugging Face models).
+
 3.	Run the application:
 ```bash
 run app.py
