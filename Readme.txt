@@ -12,6 +12,10 @@ Tech Stack
 •	AI / NLP Backend: Hugging Face transformers library (pipeline)
 •	Models Used: * Summarization: facebook/bart-large-cnn
 •	Sentiment: distilbert-base-uncased-finetuned-sst-2-english
+
+
+
+
 Local Setup & Installation
 To run this project locally on your machine, follow these steps:
 	1.	Clone the repository:
